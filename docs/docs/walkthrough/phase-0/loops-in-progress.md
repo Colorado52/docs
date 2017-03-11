@@ -6,6 +6,7 @@ New to Github, and PRs? [Check out how to submit your first PR](../../../../docs
 
 List of people who are working on closed loops:
 
+- Brett Loewen (Boulder, CO)
 - Dana Lewis
 - Ben West
 - Chris Hannemann
